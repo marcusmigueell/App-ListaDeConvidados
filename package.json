@@ -1,6 +1,6 @@
 {
   "name": "imhere",
-  "main": "expo-router/entry",
+  "main": "",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
